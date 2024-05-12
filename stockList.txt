@@ -1,0 +1,10 @@
+apple apple 158.63
+cisco cisco 31.48
+facebook facebook 170.95
+google google 941.41
+intel intel 35.19
+microsoft microsoft 73.98
+atlassian atl 124.23
+abdul rahim 3951
+amna shahid 4693
+alaina usmani 1234
